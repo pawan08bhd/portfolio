@@ -15,7 +15,7 @@ Built with a clean, minimalist pitch-black engineering aesthetic, focusing on te
 
 1. **[RasayanFlow](https://rasayan-flow2-0.vercel.app/)** — Laboratory Chemical Inventory & Requisition Management System (Adopted by SGSITS Department of Pharmaceutical Studies).
 2. **[PromptDocs](https://promptdocs01.netlify.app/)** — AI Documentation & Interactive Prompt Engineering Platform.
-3. **[Blogify](https://github.com/pawan08bhd/Blogify-app)** — Full-Stack Developer Blogging & Content Management Platform.
+3. **[Blogify](https://github.com/pawan08bhd/Blogify-app)** Full-Stack Developer Blogging & Content Management Platform.
 
 ## Getting Started
 
